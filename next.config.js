@@ -3,7 +3,7 @@
 const nextConfig = {
   basePath: '/available-for-lease',   // 👈 your repo name
   assetPrefix: '/available-for-lease/',
-  output: 'export',                   // 👈 ensures static export for GitHub Pages
+  output: 'export',                   // 👈 required for GitHub Pages
 };
 
 module.exports = nextConfig;
