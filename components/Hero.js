@@ -21,9 +21,9 @@ export default function Hero() {
   <h2 className="lease-highlight">AVAILABLE FOR LEASE</h2>
   <p className="fade-up">
     2OO METERS FROM KANPUR HIGHWAY
-    CONNECTED WITH OUTER RING ROAD
-    30FT SERVICE LANE
-    PRIVATE CONCRETE ROAD
+    * CONNECTED WITH OUTER RING ROAD
+    * 30FT SERVICE LANE
+    * PRIVATE CONCRETE ROAD
   </p>
 </div>
 
