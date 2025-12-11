@@ -7,12 +7,12 @@ export default function MediaGallery() {
     // Photos 26–60 (35 items)
     ...Array.from({ length: 35 }, (_, i) => ({
       type: "photo",
-      src: `/public/Photos/photo-${i + 26}.jpg`,
+      src: `/available-for-lease/Photos/photo-${i + 26}.jpg`,
     })),
     // Videos 61–79 (19 items)
     ...Array.from({ length: 19 }, (_, i) => ({
       type: "video",
-      src: `/public/Videos/video-${i + 61}.mp4`,
+      src: `/available-for-lease/Videos/video-${i + 61}.mp4`,
     })),
   ];
 
